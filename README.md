@@ -10,4 +10,4 @@ talented people. I am currently in my pre final year fo B.Tech in Computer Scien
 - gmail- bhavya13701@gmail.com
 - linkedin- www.linkedin.com/in/bhavya-pratap-singh-b71b9a213
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavya1370)](https://github.com/anuraghazra/github-readme-stats)
