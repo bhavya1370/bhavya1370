@@ -6,10 +6,10 @@
 
 I consider myself to be a young computer enthusiast with a passion for technology & Cloud-based solutions, solving real-life problems, and developing cutting-edge products with a team of equally enthusiastic and talented people. I am currently in my final year of B.Tech in Computer Science
 
-- 🔭 I’m currently working on an **Crypto and Stock Wallet App** 
+- 🔭 I’m currently working on a **Crypto and Stock Wallet App** 
 - 🌱 I’m currently learning **TypeScript,Node.js** 
 - 👯 I’m looking to collaborate with other developers to **create new and exciteing Mobile Apps or cloud based projects**  
-- ⚡ Fun fact: I am The Vice Precedent of DASP Music Society and I beatbox
+- ⚡ Fun fact: I am The Vice President of DASP Music Society and I beatbox
 
 ## Things I am passionate about
 
